@@ -3,4 +3,4 @@ kind: Pipeline
 metadata:  
   name: cd-pipeline p
 spec:
-  tasks:
+  tasks:d
